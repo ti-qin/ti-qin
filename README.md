@@ -9,8 +9,6 @@ PhD student in genetics, focusing on transcriptomics and sequence-based analysis
   
 > **“Humility in acknowledging one’s limitations marks the inception of transcending biases.”**
 
-📫 qinti@zju.edu.cn
-
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![R](https://img.shields.io/badge/R-tidyverse-blue)
 ![Linux](https://img.shields.io/badge/Linux-HPC-informational)
