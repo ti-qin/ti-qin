@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @ti-qin
-- 👀 I’m a Bioinformatics enthusiast.
-- ⚡ Proficient in R, Python, and Linux, with a strong passion for data analysis and data visualization.
-- 🌱 Independently completed projects related to bulk RNA-seq, single-cell RNA-seq, and ribo-seq.
-- 😄 My guiding principle--- “Humility in acknowledging one’s limitations marks the inception of transcending biases.”
-- 📫 Email：qinti@zju.edu.cn
+## Hi, I'm Ti Qin 👋
+
+PhD student in genetics, focusing on transcriptomics and sequence-based analysis.
+
+### Research interests
+- Bulk and single-cell RNA-seq analysis  
+- Ribo-seq and translational regulation  
+- Data analysis and visualization  
+
+### Tools
+R · Python · Linux
+
+> *“Humility in acknowledging one’s limitations marks the inception of transcending biases.”*
+
+📫 qinti@zju.edu.cn
+
 
 
