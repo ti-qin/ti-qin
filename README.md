@@ -11,7 +11,7 @@ PhD student in genetics, focusing on transcriptomics and sequence-based analysis
 
 📫 qinti@zju.edu.cn
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![R](https://img.shields.io/badge/R-tidyverse-blue)
 ![Linux](https://img.shields.io/badge/Linux-HPC-informational)
 
